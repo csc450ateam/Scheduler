@@ -1,0 +1,35 @@
+Sunday: 
+Tony: 11 to 22
+
+Monday: 
+Tony: 8 to 22
+Jim: 16 to 22
+Missing Shift! Please check availability.
+
+Tuesday: 
+Tony: 8 to 16
+Chase2: 11 to 19
+Ricardo: 16 to 22
+
+Wednesday: 
+Orpheus: 8 to 16
+Jim: 11 to 19
+Tony: 16 to 22
+Missing Shift! Please check availability.
+
+Thursday: 
+Orpheus: 8 to 16
+Chase2: 11 to 19
+Ricardo: 16 to 22
+
+Friday: 
+Orpheus: 8 to 16
+Chase2: 10 to 17
+Ricardo: 16 to 22
+Missing Shift! Please check availability.
+
+Saturday: 
+Orpheus: 11 to 7
+Tony: 16 to 22
+Jim: 8 to 9
+

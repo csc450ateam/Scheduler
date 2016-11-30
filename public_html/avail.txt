@@ -1,0 +1,6 @@
+          SU     M     T     W     Th     F     S
+Chase2     Any  8:16   Any 16:22    Any   Any   Off
+Jim     Off 16:22 11:19 11:19  11:19  8:16   Any
+Ricardo    16:22 16:22 16:22 16:22  16:22 16:22 16:22
+Orpheus     Off   Off   Off   Any    Any   Any   Any
+Tony     Any   Any  8:16 16:22   8:19  8:19   Any
